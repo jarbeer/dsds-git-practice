@@ -13,3 +13,5 @@ dummy local commit
 dummy origin commit
 
 banana
+
+apple

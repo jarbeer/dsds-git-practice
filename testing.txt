@@ -12,6 +12,6 @@ dummy local commit
 
 dummy origin commit
 
-dogtiger
+cat dog
 
 apple

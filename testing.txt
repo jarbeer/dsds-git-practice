@@ -21,3 +21,5 @@ test
 make some test to test git diff
 
 testing git diff cached
+
+testing git diff normal

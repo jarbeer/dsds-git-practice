@@ -20,4 +20,4 @@ test
 
 make some test to test git diff
 
-i want to have mega conflict
+conflict time

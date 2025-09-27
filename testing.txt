@@ -12,4 +12,8 @@ dummy local commit
 
 dummy origin commit
 
-banana
+cat dog
+
+apple
+
+test
